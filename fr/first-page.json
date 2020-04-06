@@ -1,4 +1,22 @@
 {
   "title":"First page",
-  "source":"https://fr.wikipedia.org/wiki/Course_%C3%A0_pied"
+  "source":"https://fr.wikipedia.org/wiki/Course_%C3%A0_pied",
+  "definition":"La course à pied est, avec la marche, l'un des deux modes de locomotion bipèdes de l'être humain. Caractérisée par une phase de suspension durant laquelle aucun des deux pieds ne touche le sol, elle permet un déplacement plus économe en énergie que la marche pour des vitesses allant d'environ 6 km/h (ultrafond) à plus de 40 km/h (sprint). Outre sa fonction locomotrice, elle est principalement pratiquée comme sport dans le cadre de l'athlétisme et en tant qu'exercice physique.",
+  "types":[{
+    "name":"Courses de sprint",
+    "descrition":"Le sprint regroupe les courses à pied dans lesquelles le sprinteur doit courir sur une faible distance à la vitesse la plus rapide possible. Le sprinter, outre des aptitudes physiques particulières, doit développer une séquence de mouvement et de posture conditionnant la vitesse finale qu'il atteint.",
+    "image-url":""
+  },{
+     "name":"Courses de demi-fond",
+    "descrition":"Le demi-fond regroupe l'ensemble des courses d'athlétisme comprises entre le sprint et le fond (de 800 m à 3 000 m) et qui se déroulent dans une enceinte sportive ou extérieure. Seuls le 800 m, le 1 500 m, et le 3 000 m steeple sont au programme des Jeux olympiques. Il est primordial qu'un coureur de demi-fond ait la possibilité d'enchaîner des accélérations rapides, fasse preuve d'une grande concentration et réactivité durant l'épreuve où ses muscles sont sollicités tout au long du parcours, d'une maîtrise de sa respiration et enfin ait mis en place une tactique de course.",
+    "image-url":""
+  },{
+     "name":"Courses de fond",
+    "descrition":"La course de fond est une activité d'endurance qui requiert un bon équilibre énergétique et une forte volonté mentale. Les courses de fond s'effectuent sur des distances supérieures à 3 000 m comme le 5 km, le 10 km, le cross-country, le semi-marathon et le marathon. Le cross-country a lieu en campagne. En raison de la diversité des conditions et des lieux, il n'y a pas de record mondial dans cette discipline. Les courses de cross-country dépassent rarement 15 km. Il y a beaucoup de bienfaits pour le corps et l'esprit à la pratiquer de la course de fond.",
+    "image-url":""
+  },{
+     "name":"Courses d'ultrafond",
+    "descrition":"Pour toutes les courses supérieures au marathon, l'appellation est le grand fond et même l'ultrafond. Les courses de fond peuvent se dérouler, non sur une distance imposée, mais sur un temps imposé. Il s'agit alors d'une épreuve de durée, comme les courses de 24 heures ou de 6 jours. Concernant les épreuves de distance, les plus populaires sont les courses de 100 km, avec plus de 300 manifestations à travers le monde chaque année (416 en 20168).",
+    "image-url":""
+  }]
 }
